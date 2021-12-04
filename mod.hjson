@@ -1,0 +1,10 @@
+{
+  name: "better-distr"
+  displayName: "Better Distribution"
+  author: RexHm (Discord ID:612122239428722720)
+  description: "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
+  version: "1.0"
+  minGameVersion: "126"
+  dependencies: []
+  hidden: false
+}

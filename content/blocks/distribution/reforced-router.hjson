@@ -1,0 +1,13 @@
+{
+  type: Router
+  health: 90
+  speed: 15
+  itemCapacity: 10
+  requirements: [
+    copper/1
+    lead/1
+    titanium/1
+  ]
+  category: distribution
+  research: titanium-conveyor
+}

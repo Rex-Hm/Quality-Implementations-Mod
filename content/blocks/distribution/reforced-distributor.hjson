@@ -1,0 +1,14 @@
+{
+  type: Router
+  health: 200
+  size: 2
+  speed: 15
+  itemCapacity: 40
+  requirements: [
+    copper/4
+    lead/4
+    titanium/2
+  ]
+  category: distribution
+  research: reforced-router
+}

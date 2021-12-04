@@ -1,0 +1,12 @@
+{
+  type: ItemBridge
+  range: 5
+  speed: 0.8
+  requirements: [
+    copper/6
+    lead/6
+    titanium/4
+  ]
+  category: distribution
+  research: bridge-conveyor
+}

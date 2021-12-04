@@ -1,0 +1,13 @@
+{
+  type: stackConveyor
+  health: 110
+  itemCapacity: 12
+  speed: 0.1
+  requirements: [
+    graphite/1
+    plastanium/1
+    surge-alloy/1
+  ]
+  category: distribution
+  research: plastanium-conveyor
+}

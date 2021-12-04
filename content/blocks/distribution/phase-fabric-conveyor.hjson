@@ -1,0 +1,14 @@
+{
+  type: conveyor
+  health: 80
+  speed: 0.16
+  displayedSpeed: 20
+  requirements: [
+    copper/1
+    lead/1
+    silicon/1
+    phase-fabric/1
+  ]
+  category: distribution
+  research: titanium-conveyor
+}
