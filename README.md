@@ -4,3 +4,4 @@ Quality Implementations (q-impl) is a quality of life mod made with the purpose 
 
 # Downloads
 - [Version 1.0](https://github.com/Rex-Hm/Quality-Implementations-Mod/archive/refs/tags/1.0.zip)
+- [Version 1.1](https://github.com/Rex-Hm/Quality-Implementations-Mod/archive/refs/tags/1.1.zip)
