@@ -1,0 +1,26 @@
+{
+  type: OverdriveProjector
+  size: 1
+  health: 40
+  range: 32
+  speedBoost: 1.25
+  speedBoostPhase: 0
+  speedRangeBoost: 48
+  consumes: {
+    power: 0.6
+    items: {
+      items: [
+        silicon/1
+      ]
+      booster: true
+      optional: true
+    }
+  }
+  requirements: [
+    copper/25
+    lead/30
+    graphite/20
+  ]
+  research: mender
+  category: effect
+}

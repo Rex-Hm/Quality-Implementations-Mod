@@ -1,0 +1,60 @@
+//Make this an artillery turret
+{
+  type: ItemTurret
+  targetAir: false
+  targetGround: true
+  health: 700
+  size: 2
+  inaccuracy: 10
+  recoilAmount: 4
+  reloadTime: 30
+  shots: 1
+  shootSound: artillery
+  rotateSpeed: 10
+  ammoUseEffect: casing3
+  minRange: 16
+  range: 176
+  consumes: {
+    liquid: {
+      liquid: water
+      amount: 0.5
+      booster: true
+      optional: true
+    }
+  }
+  ammoTypes:{
+    graphite: {
+      reloadMultiplier: 0.8
+      ammoMultiplier: 2
+      speed: 2
+      damage: 45
+      width: 12
+      height: 12
+      shootEffect: shootBig
+      smokeEffect: shootBigSmoke
+      //frontColor: 919fe7
+      //backColor: 919fe7
+    }
+    silicon: {
+      reloadMultiplier: 1
+      ammoMultiplier: 3
+      speed: 2
+      damage: 35
+      width: 11
+      height: 11
+      shootEffect: shootBig
+      smokeEffect: shootBigSmoke
+      //frontColor: 9b9daa
+      //backColor: 9b9daa
+    }
+  }
+  /*
+  requirements: [
+    copper/120
+    graphite/80
+    titanium/100
+  ]
+  category: turret
+  research: hail
+  */
+}

@@ -1,0 +1,12 @@
+{
+  type: Unloader
+  health: 120
+  speed: 2
+  requirements: [
+    silicon/30
+    titanium/30
+    phase-fabric/15
+  ]
+  category: effect
+  research: unloader
+}
