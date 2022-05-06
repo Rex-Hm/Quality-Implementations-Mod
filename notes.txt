@@ -1,8 +1,0 @@
-Payload conveyors
-Doors 2
-Cryofluid mixer
-Plastanium
-Metaglass
-Spores
-Phase
-Make Bombardier an artillery turret and "balance" it
